@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberLagomorph
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning whatever I can.
+- 🌱 I’m currently learning whatever I can. I do not know much.
 - 💞️ I’m looking to collaborate on a project when I find one.
 - 📫 How to reach me TBD.
 
